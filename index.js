@@ -1,3 +1,3 @@
 setInterval(() => {
-  console.log('Hello EZ-Host!')
+  console.log('Welcome ez-host!')
 }, 5000)
